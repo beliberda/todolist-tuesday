@@ -1,0 +1,22 @@
+.card {
+    background-color: red;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+    justify-content: space-between;
+}
+
+.top {}
+
+.top-title {}
+
+.main {}
+
+.main-top {}
+
+.main-title {}
+
+.progress-num {}
+
+.main-bottom {}
